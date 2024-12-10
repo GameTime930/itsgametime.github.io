@@ -1,5 +1,5 @@
 DATE PLANE Status Time
-Tue, Dec 10, 2024 N2350E BAD 17:00
+Tue, Dec 10, 2024 N711WE GOOD 17:00
 19:00
 0  GOOD 0
 0  GOOD 0
@@ -8,8 +8,8 @@ Tue, Dec 10, 2024 N2350E BAD 17:00
 0  0 0
 0  0 0
    
-12/10/2024 09:39:48   
-SEND   
+12/10/2024 10:10:40   
+Pending   
    
 Plane List   
 N1180N 1000  
