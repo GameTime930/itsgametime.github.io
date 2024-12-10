@@ -1,13 +1,11 @@
 DATE PLANE Status Time
-Tue, Dec 10, 2024 N6370D BAD 17:00
-19:00
-Tue, Dec 10, 2024 N739DB BAD 17:00
-19:00
-0  GOOD 0
-0  GOOD 0
-0  GOOD 0
-0  0 0
-0  0 0
    
-12/10/2024 08:13:12   
-SEND   
+   
+   
+   
+   
+   
+   
+   
+12/10/2024 08:18:52   
+Pending   
