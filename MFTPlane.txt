@@ -1,6 +1,5 @@
 DATE PLANE Status Time
-Tue, Dec 10, 2024 N711WE GOOD 17:00
-19:00
+0  GOOD 0
 0  GOOD 0
 0  GOOD 0
 0  GOOD 0
@@ -8,7 +7,7 @@ Tue, Dec 10, 2024 N711WE GOOD 17:00
 0  0 0
 0  0 0
    
-12/10/2024 18:20:09   
+12/10/2024 19:10:10   
 Pending   
    
 Plane List   
