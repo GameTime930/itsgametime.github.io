@@ -1,15 +1,14 @@
 DATE PLANE Status Time
-Wed, Jan 15, 2025  GOOD 17:00
-18:00
 Sat, Jan 18, 2025  GOOD 09:00
 11:00
+0  GOOD 0
 0  GOOD 0
 0  GOOD 0
 0  GOOD 0
 0  0 0
 0  0 0
    
-01/15/2025 23:10:13   
+01/16/2025 00:10:12   
 Pending   
    
 Plane List   
