@@ -1,14 +1,15 @@
 DATE PLANE Status Time
 Sat, Jan 18, 2025  GOOD 09:00
 11:00
-0  GOOD 0
+Sun, Jan 19, 2025 N711WE GOOD 11:00
+13:00
 0  GOOD 0
 0  GOOD 0
 0  GOOD 0
 0  0 0
 0  0 0
    
-01/18/2025 19:20:36   
+01/18/2025 20:10:36   
 Pending   
    
 Plane List   
