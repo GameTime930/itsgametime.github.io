@@ -1,6 +1,6 @@
 DATE PLANE Status Time
 Fri, Jan 24, 2025 N6124D GOOD 17:00
-20:00
+19:00
 0  GOOD 0
 0  GOOD 0
 0  GOOD 0
@@ -8,7 +8,7 @@ Fri, Jan 24, 2025 N6124D GOOD 17:00
 0  0 0
 0  0 0
    
-01/24/2025 18:20:09   
+01/24/2025 19:10:08   
 Pending   
    
 Plane List   
