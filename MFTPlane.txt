@@ -1,5 +1,6 @@
 DATE PLANE Status Time
-0  GOOD 0
+Wed, Jan 29, 2025 N656MF GOOD 17:00
+21:00
 0  GOOD 0
 0  GOOD 0
 0  GOOD 0
@@ -7,7 +8,7 @@ DATE PLANE Status Time
 0  0 0
 0  0 0
    
-01/27/2025 15:20:09   
+01/27/2025 16:20:09   
 Pending   
    
 Plane List   
