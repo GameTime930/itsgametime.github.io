@@ -1,5 +1,5 @@
 DATE PLANE Status Time
-Wed, Jan 29, 2025 N739GQ GOOD 19:00
+Wed, Jan 29, 2025 N3429E BAD 17:00
 21:00
 0  GOOD 0
 0  GOOD 0
@@ -8,8 +8,8 @@ Wed, Jan 29, 2025 N739GQ GOOD 19:00
 0  0 0
 0  0 0
    
-01/29/2025 15:20:11   
-Pending   
+01/29/2025 16:10:11   
+SEND   
    
 Plane List   
 N1180N 1000  
