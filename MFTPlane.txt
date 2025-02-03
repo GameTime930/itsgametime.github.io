@@ -1,6 +1,5 @@
 DATE PLANE Status Time
-Sun, Feb 02, 2025 N53361 GOOD 19:00
-21:00
+0  GOOD 0
 0  GOOD 0
 0  GOOD 0
 0  GOOD 0
@@ -8,7 +7,7 @@ Sun, Feb 02, 2025 N53361 GOOD 19:00
 0  0 0
 0  0 0
    
-02/02/2025 23:20:09   
+02/03/2025 00:10:10   
 Pending   
    
 Plane List   
