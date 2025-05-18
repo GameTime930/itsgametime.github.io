@@ -1,6 +1,5 @@
 DATE PLANE Status Time
-Fri, Feb 07, 2025 N9812J GOOD 17:00
-21:00
+0  GOOD 0
 0  GOOD 0
 0  GOOD 0
 0  GOOD 0
@@ -8,7 +7,7 @@ Fri, Feb 07, 2025 N9812J GOOD 17:00
 0  0 0
 0  0 0
    
-02/03/2025 14:10:09   
+05/17/2025 23:14:46   
 Pending   
    
 Plane List   
